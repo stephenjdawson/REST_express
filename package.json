@@ -1,0 +1,24 @@
+{
+  "name": "rest_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenjdawson/REST_express.git"
+  },
+  "author": "Stephen Dawson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephenjdawson/REST_express/issues"
+  },
+  "homepage": "https://github.com/stephenjdawson/REST_express#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.13.4",
+    "morgan": "^1.7.0"
+  }
+}
